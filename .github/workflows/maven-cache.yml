@@ -12,7 +12,7 @@ on:
 jobs:
   docker:
     env:
-     appName: "springboot-image"
+     appName: "springboot-image2"
     runs-on: ubuntu-latest
     steps:
       - name: Login to Docker Hub
